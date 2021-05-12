@@ -1,4 +1,4 @@
-# Repositorio equipo "Mentalink"
+# Repositorio equipo "Neurorace"
 
 El siguiente repositorio será utilizado para almacenar bibliografía, set de datos, firmware, hardware, imágenes, entre otras cosas, las cuales utilizarán para lograr el objetivo final de la "Primer competencia de vehículos robóticos controlados por Interfaces Cerebro Computadora" a llevarse a cabo en la Ciudad de Fray Bentos, Uruguay entre Noviembre y Diciembre de 2021.
 
